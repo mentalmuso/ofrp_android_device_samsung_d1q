@@ -1,2 +1,9 @@
-# ofrp_device_android_samsung_d1q
-device tree for orangefox, note 10 sm-n9700
+# Samsung Galaxy Note 10 snapdragon device tree for twrp
+twrp_android_device_samsung_d1q
+
+# android 9.0
+manifest
+https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-9.0
+
+Kernel source:
+https://github.com/mentalmuso/android_kernel_samsung_sd855
